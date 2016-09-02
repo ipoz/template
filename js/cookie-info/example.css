@@ -1,0 +1,25 @@
+#cookies-message-container #cookies-message {
+    padding: 10px 0px;
+    font-size: 14px;
+    line-height: 22px;
+    border-bottom: 1px solid rgb(211, 208, 208);
+    text-align: center;
+    position: fixed;
+    top: 0px;
+    background-color: #efefef;
+    width: 100%;
+    z-index: 999;
+}
+
+#cookies-message-container #cookie-info-accept {
+    background-color: #9c0080;
+    padding: 5px 10px;
+    color: #FFF;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    display: inline-block;
+    margin-left: 10px;
+    text-decoration: none;
+    cursor: pointer;
+}
